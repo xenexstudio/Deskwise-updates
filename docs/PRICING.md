@@ -1,6 +1,6 @@
 <div align="center">
 
-![StuSync Pricing](../assets/banners/banner-pricing.svg)
+![Deskwise Pricing](../assets/banners/banner-pricing.svg)
 
 [← Back to README](../README.md) · [Features](./FEATURES.md) · [Installation](./INSTALL.md)
 
@@ -12,42 +12,47 @@
 
 All tiers include every module — finance, registry, academics, payroll, transport, CCTV, cloud sync, and security. No per-module charges. No surprises.
 
-| Tier | School Size | Annual Investment |
-|------|-------------|-------------------|
-| **Starter** | Up to 499 students | NPR 40,000 / year |
-| **Growth** | 500 – 799 students | NPR 50,000 / year |
-| **Professional** | 800 – 1,199 students | NPR 60,000 / year |
-| **Enterprise** | 1,200+ students | Custom — contact Trehive |
+| Tier | School Size | Devices | Included Certificates | Mobile Apps |
+|------|-------------|---------|----------------------|-------------|
+| **Foundation** | 200 – 399 students | 3 | 1 report + 1 TC + 1 CC | ✅ |
+| **Advantage** | 400 – 599 students | 5 | 2 reports + 2 TC + 2 CC | ✅ |
+| **Premier** | 600 – 799 students | 7 | 2 reports + 2 TC + 2 CC | ✅ |
+| **Enterprise** | 800+ students | Custom | Custom | ✅ |
+
+> *Pricing not yet finalised — contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) for details.*
 
 ---
 
 ## What's Included in Every Plan
 
-- ✅ All 10+ modules — no per-module charges
+- ✅ All modules — no per-module charges
 - ✅ Offline-first architecture — works without internet
 - ✅ AES-256 SQLCipher encryption
 - ✅ Cloud sync via Supabase
 - ✅ Silent over-the-air auto-updates
-- ✅ All 9 certificate templates
 - ✅ Encrypted backup system
-- ✅ Email & phone support
+- ✅ Mobile apps (Android & iOS)
+- ✅ Email support
 
 ---
 
-## Support by Tier
+## Add-Ons
 
-| Tier | Support |
-|------|---------|
-| Starter | Email + phone (business hours) |
-| Growth | Email + phone (extended hours) |
-| Professional | Priority email, phone, and WhatsApp |
-| Enterprise | Dedicated account manager |
+Need more than what your plan includes? All extras available à la carte:
+
+| Add-On | Description |
+|--------|-------------|
+| Extra device license | Add another installation beyond plan limit |
+| Additional certificate | Extra report card, TC, or CC template per slab |
+| Staff web access | Web portal access for staff members |
+| Dedicated onboarding | Full guided setup and training |
+| Custom branding | School logo and theme inside the app |
 
 ---
 
 ## Enterprise
 
-For institutions with 1,200+ students or special requirements:
+For schools with 800+ students or special requirements:
 
 - **Dedicated onboarding** — full guided setup
 - **Custom branding** — your school logo inside the app
@@ -56,16 +61,16 @@ For institutions with 1,200+ students or special requirements:
 - **SLA guarantee** — committed response and resolution times
 - **Custom integrations** — on request
 
-Contact [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com) for a custom quote.
+Contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) for a custom quote.
 
 ---
 
 ## How to Purchase
 
-1. **Enquire** — email or call Trehive to get started
+1. **Enquire** — email Xenex to get started
 2. **Demo** — request a free guided walkthrough of the platform
 3. **Select plan** — choose the tier that matches your enrollment
-4. **Payment** — bank transfer or cash
+4. **Payment** — bank transfer or UPI
 5. **Activate** — receive your license key by email and go live
 
 ---
@@ -74,10 +79,9 @@ Contact [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com) for a cust
 
 - Licenses renew **annually**
 - Renewal reminder sent **30 days before expiry**
-- Early renewal within 30 days **locks in current pricing**
 - **Upgrades** take effect immediately from the next billing cycle
 - **Downgrades** are processed at the end of the current period
-- **Cancellation** — access continues to end of paid period, no refunds for unused time
+- **Cancellation** — access continues to end of paid period
 
 ---
 
@@ -85,17 +89,14 @@ Contact [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com) for a cust
 
 | Channel | Details |
 |---------|---------|
-| Email | [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com) |
-| Phone | +977-9741802381 · +977-9808320338 |
-| Website | [stusync.trehive.com](https://stusync.trehive.com) |
-| Address | New Baneshwor, Kathmandu, Nepal |
+| Email | [deskwise@xenex.dev](mailto:deskwise@xenex.dev) |
 
 ---
 
 <div align="center">
 
-[← Back to README](../README.md) · [Installation →](./INSTALL.md)
+[← Back to README](../README.md) · [Features →](./FEATURES.md)
 
-*© 2024–2026 Trehive*
+*© 2024–2026 Xenex*
 
 </div>

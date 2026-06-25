@@ -1,6 +1,6 @@
 <div align="center">
 
-![StuSync Features](../assets/banners/banner-features.svg)
+![Deskwise Features](../assets/banners/banner-features.svg)
 
 [← Back to README](../README.md) · [Installation](./INSTALL.md) · [Pricing](./PRICING.md)
 
@@ -78,14 +78,14 @@ Complete visibility over your fleet — even without internet.
 
 ### 📷 CCTV & Dashboard
 
-Bring your campus security into StuSync.
+Bring your campus security into Deskwise.
 
 - **Live camera feeds** — DVR and IP camera integration
 - **Secondary dashboard** — multi-monitor support for reception/admin desks
 - **Real-time stats** — live student count, today's attendance, collections at a glance
 
 > [!NOTE]
-> StuSync provides the viewer interface only. Cameras and recording hardware remain the school's property and responsibility. No CCTV data is stored on StuSync servers.
+> Deskwise provides the viewer interface only. Cameras and recording hardware remain the school's property and responsibility. No CCTV data is stored on Deskwise servers.
 
 ---
 
@@ -149,6 +149,6 @@ Features currently in development or planned:
 
 [← Back to README](../README.md) · [Installation →](./INSTALL.md)
 
-*© 2024–2026 Trehive*
+*© 2024–2026 Xenex*
 
 </div>

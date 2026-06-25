@@ -1,6 +1,6 @@
 <div align="center">
 
-![StuSync Installation](../assets/banners/banner-install.svg)
+![Deskwise Installation](../assets/banners/banner-install.svg)
 
 [← Back to README](../README.md) · [Features](./FEATURES.md) · [Pricing](./PRICING.md)
 
@@ -24,30 +24,30 @@
 
 ### Step 1 — Download
 
-Get the latest release from GitHub or the StuSync website:
+Get the latest release from GitHub or the Deskwise website:
 
 - **GitHub:** https://github.com/Trehive/stusync-patches/releases/latest
-- **Website:** https://stusync.trehive.com/downloads
+- **Website:** https://deskwise.xenex.dev/downloads
 
-Download `stusync_v2.0.2.zip`.
+Download `deskwise_v2.0.2.zip`.
 
 ### Step 2 — Extract
 
 ```
-Extract stusync_v2.0.2.zip to:
-  C:\Program Files\StuSync      ← recommended
+Extract deskwise_v2.0.2.zip to:
+  C:\Program Files\Deskwise      ← recommended
 ```
 
-No installer is required. StuSync runs directly from the extracted folder.
+No installer is required. Deskwise runs directly from the extracted folder.
 
 ### Step 3 — Launch
 
-Open the StuSync folder and double-click `stusync.exe`. The app initializes on first launch.
+Open the Deskwise folder and double-click `deskwise.exe`. The app initializes on first launch.
 
 ### Step 4 — Activate
 
 > [!IMPORTANT]
-> A valid license key from Trehive is required. Contact [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com) to obtain one.
+> A valid license key from Xenex is required. Contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) to obtain one.
 
 1. Enter your **license key** when prompted
 2. The app automatically binds to your device (hardware-linked)
@@ -68,7 +68,7 @@ Open the StuSync folder and double-click `stusync.exe`. The app initializes on f
 
 ### Auto-Update *(Recommended)*
 
-When a new version is available, StuSync prompts you to update.
+When a new version is available, Deskwise prompts you to update.
 
 1. Click **Update Now** in the prompt
 2. The app downloads and applies the patch in the background
@@ -76,11 +76,11 @@ When a new version is available, StuSync prompts you to update.
 
 ### Manual Update
 
-1. Download the latest `stusync_vX.X.X.zip` from [Releases](https://github.com/Trehive/stusync-patches/releases/latest)
+1. Download the latest `deskwise_vX.X.X.zip` from [Releases](https://github.com/Trehive/stusync-patches/releases/latest)
 2. Back up your database: `Settings → Backup → Create Backup`
-3. Close StuSync completely
+3. Close Deskwise completely
 4. Extract the new files and overwrite the existing folder
-5. Launch `stusync.exe` — database migrates automatically
+5. Launch `deskwise.exe` — database migrates automatically
 
 ---
 
@@ -90,14 +90,14 @@ When a new version is available, StuSync prompts you to update.
 
 Go to **Settings → Backup → Create Backup**
 
-This creates an encrypted `.stusync` backup file containing:
+This creates an encrypted `.deskwise` backup file containing:
 - Full AES-256 encrypted database
 - All uploaded media and documents
 - Automatic rotation — keeps last 3 backups
 
 ### Auto-Backup
 
-StuSync creates backups automatically:
+Deskwise creates backups automatically:
 - Daily, when the app is running and connected
 - Before every update
 
@@ -106,7 +106,7 @@ StuSync creates backups automatically:
 Go to **Settings → Backup → Restore**, select your backup file, and confirm. The app restarts with restored data.
 
 > [!WARNING]
-> Always move backup files to external storage (USB drive, external hard disk). Trehive is not responsible for backup files lost due to device failure, formatting, or accidental deletion.
+> Always move backup files to external storage (USB drive, external hard disk). Xenex is not responsible for backup files lost due to device failure, formatting, or accidental deletion.
 
 ---
 
@@ -114,10 +114,10 @@ Go to **Settings → Backup → Restore**, select your backup file, and confirm.
 
 ```batch
 :: Use a custom data directory
-stusync.exe --data-path="D:\SchoolData"
+deskwise.exe --data-path="D:\SchoolData"
 
 :: Enable debug logging
-stusync.exe --debug
+deskwise.exe --debug
 ```
 
 ---
@@ -126,11 +126,11 @@ stusync.exe --debug
 
 | Error | Resolution |
 |-------|-----------|
-| `License Not Found` | Verify your key is correct. Contact Trehive if lost. |
-| `Device Not Registered` | Contact Trehive with your machine ID (shown in the error). |
+| `License Not Found` | Verify your key is correct. Contact Xenex if lost. |
+| `Device Not Registered` | Contact Xenex with your machine ID (shown in the error). |
 | `Database Corrupted` | Restore from backup. If no backup exists, contact support. |
 | `Sync Failed` | Check internet connection. Try manual sync later via Settings. |
-| `Clock Tamper Detected` | System clock was moved backward — a security check. Contact Trehive. |
+| `Clock Tamper Detected` | System clock was moved backward — a security check. Contact Xenex. |
 
 ---
 
@@ -140,8 +140,8 @@ stusync.exe --debug
 > Always back up your data before uninstalling. Data not backed up or synced to cloud will be permanently lost.
 
 1. Create a backup: `Settings → Backup → Create Backup`
-2. Delete the StuSync application folder
-3. *(Optional)* Delete `%APPDATA%\StuSync` to remove app data
+2. Delete the Deskwise application folder
+3. *(Optional)* Delete `%APPDATA%\Deskwise` to remove app data
 4. Remove any desktop shortcuts
 
 ---
@@ -150,9 +150,7 @@ stusync.exe --debug
 
 | Channel | Details |
 |---------|---------|
-| Email | [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com) |
-| Phone | +977-9741802381 |
-| Website | [stusync.trehive.com/support](https://stusync.trehive.com/support) |
+| Email | [deskwise@xenex.dev](mailto:deskwise@xenex.dev) |
 
 ---
 
@@ -160,6 +158,6 @@ stusync.exe --debug
 
 [← Back to README](../README.md) · [Features](./FEATURES.md) · [Pricing →](./PRICING.md)
 
-*© 2024–2026 Trehive*
+*© 2024–2026 Xenex*
 
 </div>
