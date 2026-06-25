@@ -1,7 +1,7 @@
 <svg viewBox="0 0 880 80" xmlns="http://www.w3.org/2000/svg" width="880" height="80">
-  <rect width="880" height="80" fill="#1B4332"/>
-  <rect x="0" y="72" width="880" height="4" fill="#2D6A4F"/>
-  <text x="28" y="34" fill="#D8F3DC" font-family="Georgia,serif" font-size="20" font-weight="700">Pricing</text>
-  <text x="28" y="56" fill="#52B788" font-family="'Courier New',monospace" font-size="11" letter-spacing="0.5">From NPR 40,000/yr · All modules included · No hidden fees</text>
-  <text x="852" y="44" text-anchor="end" fill="#40916C" font-family="'Courier New',monospace" font-size="11">stusync.trehive.com</text>
+  <rect width="880" height="80" fill="#1E3A8A"/>
+  <rect x="0" y="72" width="880" height="4" fill="#172554"/>
+  <text x="28" y="34" fill="#DBEAFE" font-family="Georgia,serif" font-size="20" font-weight="700">Pricing</text>
+  <text x="28" y="56" fill="#3B82F6" font-family="'Courier New',monospace" font-size="11" letter-spacing="0.5">Foundation &middot; Advantage &middot; Premier &middot; Enterprise</text>
+  <text x="852" y="44" text-anchor="end" fill="#2563EB" font-family="'Courier New',monospace" font-size="11">deskwise.xenex.dev</text>
 </svg>
