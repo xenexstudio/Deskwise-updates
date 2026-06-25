@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0.6",
-  "patch_url": "https://github.com/Trehive/stusync-patches/releases/download/stable_v2.0.6%2B25/stable_v2.0.6+25.zip",
-  "changelog": "https://github.com/Trehive/stusync-patches/releases/tag/stable_v2.0.6%2B25",
+  "latest_version": "1.1.0",
+  "patch_url": "https://github.com/xenexstudio/Deskwise-updates/releases/download/beta_v1.1.0/beta_v1.1.0.zip",
+  "changelog": "https://github.com/xenexstudio/Deskwise-updates/releases/tag/beta_v1.1.0",
   "critical": true
 }
