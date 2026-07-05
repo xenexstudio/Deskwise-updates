@@ -1,6 +1,6 @@
 <div align="center">
 
-![StuSync Security Policy](./assets/banners/banner-security.svg)
+![Deskwise Security Policy](./assets/banners/banner-security.svg)
 
 [← Back to README](./README.md)
 
@@ -20,7 +20,7 @@
 
 ## Security Architecture
 
-StuSync handles some of the most sensitive personal data in any community — children's identities, family contacts, financial records. Every layer of the system is designed with that responsibility in mind.
+Deskwise handles some of the most sensitive personal data in any community — children's identities, family contacts, financial records. Every layer of the system is designed with that responsibility in mind.
 
 | Layer | Protection |
 |-------|-----------|
@@ -35,11 +35,11 @@ StuSync handles some of the most sensitive personal data in any community — ch
 
 ## Reporting a Vulnerability
 
-StuSync handles sensitive student and institutional data. **Please do not open public GitHub issues for security vulnerabilities.**
+Deskwise handles sensitive student and institutional data. **Please do not open public GitHub issues for security vulnerabilities.**
 
 **Report privately:**
 
-- 📧 **Email:** [trehiveofficial@gmail.com](mailto:trehiveofficial@gmail.com)
+- 📧 **Email:** [studioxenex@gmail.com](mailto:studioxenex@gmail.com)
 - 📝 **Subject line:** `[SECURITY] Brief description of the issue`
 
 **Response commitments:**
@@ -64,6 +64,6 @@ Reports are welcomed for:
 
 [← Back to README](./README.md)
 
-*© 2024–2026 Trehive*
+*© 2024–2026 Xenex*
 
 </div>

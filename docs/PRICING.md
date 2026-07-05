@@ -19,7 +19,7 @@ All tiers include every module — finance, registry, academics, payroll, transp
 | **Premier** | 600 – 799 students | 7 | 2 reports + 2 TC + 2 CC | ✅ |
 | **Enterprise** | 800+ students | Custom | Custom | ✅ |
 
-> *Pricing not yet finalised — contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) for details.*
+> *Pricing not yet finalised — contact [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) for details.*
 
 ---
 
@@ -61,7 +61,7 @@ For schools with 800+ students or special requirements:
 - **SLA guarantee** — committed response and resolution times
 - **Custom integrations** — on request
 
-Contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) for a custom quote.
+Contact [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) for a custom quote.
 
 ---
 
@@ -89,7 +89,7 @@ Contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) for a custom quote.
 
 | Channel | Details |
 |---------|---------|
-| Email | [deskwise@xenex.dev](mailto:deskwise@xenex.dev) |
+| Email | [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) |
 
 ---
 

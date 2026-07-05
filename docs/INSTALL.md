@@ -26,8 +26,8 @@
 
 Get the latest release from GitHub or the Deskwise website:
 
-- **GitHub:** https://github.com/Trehive/stusync-patches/releases/latest
-- **Website:** https://deskwise.xenex.dev/downloads
+- **GitHub:** https://github.com/xenexstudio/Deskwise-updates/releases/latest
+- **Website:** https://deskwise.in/downloads
 
 Download `deskwise_v2.0.2.zip`.
 
@@ -47,7 +47,7 @@ Open the Deskwise folder and double-click `deskwise.exe`. The app initializes on
 ### Step 4 — Activate
 
 > [!IMPORTANT]
-> A valid license key from Xenex is required. Contact [deskwise@xenex.dev](mailto:deskwise@xenex.dev) to obtain one.
+> A valid license key from Xenex Studio is required. Contact [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) to obtain one.
 
 1. Enter your **license key** when prompted
 2. The app automatically binds to your device (hardware-linked)
@@ -76,7 +76,7 @@ When a new version is available, Deskwise prompts you to update.
 
 ### Manual Update
 
-1. Download the latest `deskwise_vX.X.X.zip` from [Releases](https://github.com/Trehive/stusync-patches/releases/latest)
+1. Download the latest `deskwise_vX.X.X.zip` from [Releases](https://github.com/xenexstudio/Deskwise-updates/releases/latest)
 2. Back up your database: `Settings → Backup → Create Backup`
 3. Close Deskwise completely
 4. Extract the new files and overwrite the existing folder
@@ -150,7 +150,7 @@ deskwise.exe --debug
 
 | Channel | Details |
 |---------|---------|
-| Email | [deskwise@xenex.dev](mailto:deskwise@xenex.dev) |
+| Email | [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) |
 
 ---
 
