@@ -2,115 +2,93 @@
 
 ![Deskwise Installation](../assets/banners/banner-install.svg)
 
-[← Back to README](../README.md) · [Features](./FEATURES.md) · [Pricing](./PRICING.md)
+[← Back to README](../README.md) · [What it does](./FEATURES.md) · [Plans](./PRICING.md)
 
 </div>
 
 ---
 
-## System Requirements
+## Most schools don't need this page
 
-| Requirement | Minimum | Recommended |
+When you sign up, we install Deskwise on your school's computer ourselves, load in your school's details, and walk your staff through it. This page is here for reference — for your IT person, or if you'd simply like to know what happens behind the scenes.
+
+---
+
+## What your computer needs
+
+| | Minimum | Recommended |
 |-------------|---------|-------------|
-| OS | Windows 10 (64-bit) | Windows 11 |
-| RAM | 4 GB | 8 GB |
-| Storage | 10 GB free | 20 GB free |
-| Display | 1280 × 720 | 1920 × 1080 |
-| Internet | Optional | 10 Mbps+ for cloud sync |
+| Operating system | Windows 10 (64-bit) | Windows 11 |
+| Memory | 4 GB | 8 GB |
+| Free storage | 10 GB | 20 GB |
+| Screen | 1280 × 720 | 1920 × 1080 |
+| Internet | Not required for daily use | 10 Mbps+, for cloud sync |
 
----
+## Setting up
 
-## Installation
+1. **Get your license key.** Email [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) — every school needs one key to activate Deskwise.
+2. **Install Deskwise.** We'll either install it for you remotely, or send you a simple installer to run.
+3. **Activate.** Enter your license key when prompted. Deskwise links itself to that computer automatically.
+4. **Create your admin account**, and enter your school's name, registration code, and academic year.
+5. **Set up the basics** — grades and sections, fee structure, staff records, and your student list (we can help import this from an existing spreadsheet).
+6. *(Optional)* **Turn on cloud sync** under Settings, if you'd like your data backed up online and available across devices.
 
-### Step 1 — Download
+## Staying up to date
 
-Get the latest release from GitHub or the Deskwise website:
+Deskwise checks for updates on its own and lets you know when one's ready. Click **Update Now** and it downloads and applies the update in the background — nothing else to do. Your data updates automatically the next time you open the app.
 
-- **GitHub:** https://github.com/xenexstudio/Deskwise-updates/releases/latest
-- **Website:** https://deskwise.in/downloads
+## Backing up your data
 
-Download `deskwise_v2.0.2.zip`.
+Go to **Settings → Backup → Create Backup** any time you'd like a copy. Deskwise also does this for you automatically — every day the app is open and connected, and before every update. Backup files are encrypted, and the last three are always kept.
 
-### Step 2 — Extract
-
-```
-Extract deskwise_v2.0.2.zip to:
-  C:\Program Files\Deskwise      ← recommended
-```
-
-No installer is required. Deskwise runs directly from the extracted folder.
-
-### Step 3 — Launch
-
-Open the Deskwise folder and double-click `deskwise.exe`. The app initializes on first launch.
-
-### Step 4 — Activate
-
-> [!IMPORTANT]
-> A valid license key from Xenex Studio is required. Contact [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) to obtain one.
-
-1. Enter your **license key** when prompted
-2. The app automatically binds to your device (hardware-linked)
-3. Create your **administrator credentials**
-4. Enter your school name, registration code, and academic year
-
-### Step 5 — Initial Setup
-
-- Configure grades and sections
-- Set up fee structure and heads
-- Add staff records
-- Import or add students
-- *(Optional)* Enable cloud sync under Settings
-
----
-
-## Updating
-
-### Auto-Update *(Recommended)*
-
-When a new version is available, Deskwise prompts you to update.
-
-1. Click **Update Now** in the prompt
-2. The app downloads and applies the patch in the background
-3. On next launch, database migrations run automatically — no action needed
-
-### Manual Update
-
-1. Download the latest `deskwise_vX.X.X.zip` from [Releases](https://github.com/xenexstudio/Deskwise-updates/releases/latest)
-2. Back up your database: `Settings → Backup → Create Backup`
-3. Close Deskwise completely
-4. Extract the new files and overwrite the existing folder
-5. Launch `deskwise.exe` — database migrates automatically
-
----
-
-## Data Backup
-
-### Manual Backup
-
-Go to **Settings → Backup → Create Backup**
-
-This creates an encrypted `.deskwise` backup file containing:
-- Full AES-256 encrypted database
-- All uploaded media and documents
-- Automatic rotation — keeps last 3 backups
-
-### Auto-Backup
-
-Deskwise creates backups automatically:
-- Daily, when the app is running and connected
-- Before every update
-
-### Restore
-
-Go to **Settings → Backup → Restore**, select your backup file, and confirm. The app restarts with restored data.
+To bring a backup back, go to **Settings → Backup → Restore**, choose the file, and confirm.
 
 > [!WARNING]
-> Always move backup files to external storage (USB drive, external hard disk). Xenex is not responsible for backup files lost due to device failure, formatting, or accidental deletion.
+> Keep a copy of your backup files somewhere outside the school computer — a USB drive, an external hard disk, or cloud sync. Xenex can't recover files lost to a formatted or damaged device.
+
+## If something goes wrong
+
+| What you see | What it means |
+|-------|-----------|
+| "License Not Found" | Double check the key. Contact us if you've lost it. |
+| "Device Not Registered" | Contact us with the machine ID shown on screen. |
+| "Database Corrupted" | Restore your most recent backup. No backup? Contact us — we may still be able to help. |
+| "Sync Failed" | Check the internet connection, or try a manual sync again later from Settings. |
+| "Clock Tamper Detected" | The system clock was moved backward — this is a security check. Contact us. |
+
+## Uninstalling
+
+1. Take a backup first: **Settings → Backup → Create Backup**.
+2. Delete the Deskwise folder.
+3. Remove any desktop shortcuts.
+
+## Support
+
+📧 [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com)
 
 ---
 
-## Command Line Options *(Advanced)*
+<details>
+<summary><strong>Technical details</strong> (for IT teams and system integrators)</summary>
+
+<br>
+
+**Manual download & install**
+
+- GitHub: https://github.com/xenexstudio/Deskwise-updates/releases/latest
+- Website: https://deskwise.in/downloads
+
+Download `deskwise_vX.X.X.zip`, extract it to `C:\Program Files\Deskwise`, and run `deskwise.exe`. No installer is required — the app runs directly from the extracted folder.
+
+**Manual update**
+
+1. Download the latest `deskwise_vX.X.X.zip` from Releases.
+2. Back up first: `Settings → Backup → Create Backup`.
+3. Close Deskwise completely.
+4. Extract the new files over the existing folder.
+5. Launch `deskwise.exe` — database migrations run automatically.
+
+**Command line options**
 
 ```batch
 :: Use a custom data directory
@@ -120,43 +98,15 @@ deskwise.exe --data-path="D:\SchoolData"
 deskwise.exe --debug
 ```
 
----
+**Full uninstall** — after removing the application folder, optionally delete `%APPDATA%\Deskwise` to remove all local app data.
 
-## Troubleshooting
-
-| Error | Resolution |
-|-------|-----------|
-| `License Not Found` | Verify your key is correct. Contact Xenex if lost. |
-| `Device Not Registered` | Contact Xenex with your machine ID (shown in the error). |
-| `Database Corrupted` | Restore from backup. If no backup exists, contact support. |
-| `Sync Failed` | Check internet connection. Try manual sync later via Settings. |
-| `Clock Tamper Detected` | System clock was moved backward — a security check. Contact Xenex. |
-
----
-
-## Uninstalling
-
-> [!CAUTION]
-> Always back up your data before uninstalling. Data not backed up or synced to cloud will be permanently lost.
-
-1. Create a backup: `Settings → Backup → Create Backup`
-2. Delete the Deskwise application folder
-3. *(Optional)* Delete `%APPDATA%\Deskwise` to remove app data
-4. Remove any desktop shortcuts
-
----
-
-## Support
-
-| Channel | Details |
-|---------|---------|
-| Email | [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) |
+</details>
 
 ---
 
 <div align="center">
 
-[← Back to README](../README.md) · [Features](./FEATURES.md) · [Pricing →](./PRICING.md)
+[← Back to README](../README.md) · [What it does](./FEATURES.md) · [Plans →](./PRICING.md)
 
 *© 2024–2026 Xenex*
 

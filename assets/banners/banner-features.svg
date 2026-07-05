@@ -1,7 +1,7 @@
 <svg viewBox="0 0 880 80" xmlns="http://www.w3.org/2000/svg" width="880" height="80">
   <rect width="880" height="80" fill="#1E3A8A"/>
   <rect x="0" y="72" width="880" height="4" fill="#172554"/>
-  <text x="28" y="34" fill="#DBEAFE" font-family="Georgia,serif" font-size="20" font-weight="700">Features</text>
-  <text x="28" y="56" fill="#3B82F6" font-family="'Courier New',monospace" font-size="11" letter-spacing="0.5">Deskwise &middot; All 10+ modules &middot; No per-module charges</text>
+  <text x="28" y="34" fill="#DBEAFE" font-family="Georgia,serif" font-size="20" font-weight="700">What's inside Deskwise</text>
+  <text x="28" y="56" fill="#3B82F6" font-family="'Courier New',monospace" font-size="11" letter-spacing="0.5">Everything your school needs, in one place</text>
   <text x="852" y="44" text-anchor="end" fill="#2563EB" font-family="'Courier New',monospace" font-size="11">deskwise.in</text>
 </svg>

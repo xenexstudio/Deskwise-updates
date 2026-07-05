@@ -10,16 +10,16 @@
 
 ## Plans
 
-All tiers include every module — finance, registry, academics, payroll, transport, CCTV, cloud sync, and security. No per-module charges. No surprises.
+Pick the plan that matches your enrolment — every tier includes every module (finance, registry, academics, payroll, transport, CCTV, cloud sync, security). There are no per-module charges and no surprises.
 
-| Tier | School Size | Devices | Included Certificates | Mobile Apps |
+| Tier | School Size | Installations | Included Certificate Designs | Web Support |
 |------|-------------|---------|----------------------|-------------|
-| **Foundation** | 200 – 399 students | 3 | 1 report + 1 TC + 1 CC | ✅ |
-| **Advantage** | 400 – 599 students | 5 | 2 reports + 2 TC + 2 CC | ✅ |
-| **Premier** | 600 – 799 students | 7 | 2 reports + 2 TC + 2 CC | ✅ |
+| **Foundation** | 200 – 399 students | 3 | 1 report card + 1 transfer certificate + 1 character certificate | ✅ |
+| **Advantage** | 400 – 599 students | 5 | 2 + 2 + 2 | ✅ |
+| **Premier** | 600 – 799 students | 7 | 2 + 2 + 2 | ✅ |
 | **Enterprise** | 800+ students | Custom | Custom | ✅ |
 
-> *Pricing not yet finalised — contact [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) for details.*
+> *Pricing isn't public yet — email [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) and we'll send a quote for your school's size.*
 
 ---
 
@@ -31,7 +31,7 @@ All tiers include every module — finance, registry, academics, payroll, transp
 - ✅ Cloud sync via Supabase
 - ✅ Silent over-the-air auto-updates
 - ✅ Encrypted backup system
-- ✅ Mobile apps (Android & iOS)
+- ✅ Web Support (Android/iOS & Desktop)
 - ✅ Email support
 
 ---
