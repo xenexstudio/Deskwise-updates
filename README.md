@@ -7,6 +7,8 @@
 
 ### One system for your whole school — from admission to graduation.
 
+![Typing tagline](https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=20&duration=2800&pause=1200&color=1E3A8A&center=true&vCenter=true&width=600&height=40&lines=Attendance%2C+fees%2C+marks+%26+transport+-+one+place;Works+offline.+Syncs+when+you+are+back+online.;Built+for+Indian+schools%2C+for+Indian+education.)
+
 Deskwise brings attendance, fees, report cards, transport and staff records into a single, simple system. It works on your school's own computer, online or offline.
 
 [**Book a free demo**](mailto:deskwise.xenex@gmail.com) · [What it does](./docs/FEATURES.md) · [Getting set up](./docs/INSTALL.md) · [Plans](./docs/PRICING.md)
@@ -90,7 +92,11 @@ It's built for schools that can't always count on the internet — everything ke
 | Payroll matches attendance | ✅ Automatic | ❌ Manual |
 | Software updates | ✅ Silent, automatic | ❌ Manual reinstall |
 
----
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=80&section=header)
+
+</div>
 
 ## Getting started
 
@@ -214,8 +220,8 @@ See the [full pricing page](./docs/PRICING.md) for monthly vs. annual options, e
 ├──────────────────────────────────────────────────────────────┤
 │                   React / Next.js 14 (App Router)              │
 ├──────────────┬───────────────────┬───────────┬───────────────┤
-│  /principal  │    /staff         │  /parent  │  /admin       │
-│  (Principal) │  (Staff Portal)   │(Parent)   │ (Xenex Admin) │
+│  /principal  │    /staff         │  /parent  │               │
+│  (Principal) │  (Staff Portal)   │(Parent)   │ (Super Admin) │
 └──────────────┴───────────────────┴───────────┴───────────────┘
 ```
 
@@ -223,9 +229,9 @@ See the [full pricing page](./docs/PRICING.md) for monthly vs. annual options, e
 
 </details>
 
----
-
 <div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=80&section=footer)
 
 *© 2024–2026 Xenex · Built for Indian schools, for Indian education*
 
