@@ -111,11 +111,13 @@ Every plan includes every module — there are no per-module charges.
 |---|:---:|:---:|:---:|:---:|
 | School size | 200–399 students | 400–599 students | 600–799 students | 800+ students |
 | Installations | 3 | 5 | 7 | Custom |
+| Annual price | **₹20,000** | **₹32,000** | **₹48,000** | ₹65,000+ |
+| Monthly price | ₹2,000 | ₹3,200 | ₹4,800 | Custom |
 | Certificate designs included | 1 + 1 + 1 | 2 + 2 + 2 | 2 + 2 + 2 | Custom |
-| Mobile apps | ✅ | ✅ | ✅ | ✅ |
+| Mobile & web apps | ✅ | ✅ | ✅ | ✅ |
 | Priority support | | | | ✅ |
 
-Pricing isn't public yet — email [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) for a quote. [Full details →](./docs/PRICING.md)
+See the [full pricing page](./docs/PRICING.md) for monthly vs. annual options, extra installations, add-ons, and our Founding Schools offer.
 
 ---
 

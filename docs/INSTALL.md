@@ -29,9 +29,10 @@ When you sign up, we install Deskwise on your school's computer ourselves, load 
 1. **Get your license key.** Email [deskwise.xenex@gmail.com](mailto:deskwise.xenex@gmail.com) — every school needs one key to activate Deskwise.
 2. **Install Deskwise.** We'll either install it for you remotely, or send you a simple installer to run.
 3. **Activate.** Enter your license key when prompted. Deskwise links itself to that computer automatically.
-4. **Create your admin account**, and enter your school's name, registration code, and academic year.
-5. **Set up the basics** — grades and sections, fee structure, staff records, and your student list (we can help import this from an existing spreadsheet).
-6. *(Optional)* **Turn on cloud sync** under Settings, if you'd like your data backed up online and available across devices.
+4. **Need it on more computers?** Your plan includes a set number of installations. Need extra? Additional device licences are available at ₹2,000/device/year — just let us know.
+5. **Create your admin account**, and enter your school's name, registration code, and academic year.
+6. **Set up the basics** — grades and sections, fee structure, staff records, and your student list (we can help import this from an existing spreadsheet).
+7. *(Optional)* **Turn on cloud sync** under Settings, if you'd like your data backed up online and available across devices.
 
 ## Staying up to date
 
