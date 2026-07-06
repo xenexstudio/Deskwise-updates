@@ -66,7 +66,7 @@ It's built for schools that can't always count on the internet — everything ke
 |:---:|:---:|:---:|
 | ![Attendance](assets/screenshots/attendance.png) | ![CCTV](assets/screenshots/cctv.png) | ![Settings](assets/screenshots/settings.png) |
 
-> **Note:** Attendance, CCTV and Settings are placeholders. See [`screenshots-guide.txt`](./screenshots-guide.txt) for exactly what to capture and where to drop the files in.
+
 
 ---
 
