@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.5",
-  "patch_url": "https://github.com/xenexstudio/Deskwise-updates/releases/download/beta_v1.1.5/beta_v1.1.5.zip",
-  "changelog": "https://github.com/xenexstudio/Deskwise-updates/releases/tag/beta_v1.1.5",
+  "latest_version": "1.1.6",
+  "patch_url": "https://github.com/xenexstudio/Deskwise-updates/releases/download/stable_v1.1.6/stable_v1.1.6.zip",
+  "changelog": "https://github.com/xenexstudio/Deskwise-updates/releases/tag/stable_v1.1.6",
   "critical": true
 }
